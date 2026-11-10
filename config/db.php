@@ -1,9 +1,9 @@
 <?php
 // config/db.php
 
-$host = '156.38.230.252';
-$username = 'belliunasd_bc';
-$password = 'YAEX4rP3n83gzm98nda8';
+$host = 'Localhost';
+$username = 'username';
+$password = 'password';
 $database = 'belliunasd_bc';
 
 $conn = new mysqli($host, $username, $password, $database);
